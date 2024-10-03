@@ -1,0 +1,67 @@
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  float: none;
+}
+
+p{
+	text-align: center;
+	font-size: 200%;
+	font-family:Helvetica ;
+
+}
+
+
+body {
+	background-color: grey;
+}
+
+
+	
+tbody td{
+	text-align:center;
+}
+
+th,td{
+	border:solid black;
+	padding: .4em
+}
+
+table{
+	background-color:#d3d3d3;
+	color:black;
+}
+
+#foot{
+	text-align:center;
+		font-size:150%;
+}
+
+
+a:link {
+  color: orange;
+}
+a:visited {
+	color:gold
+}
+a:active {
+  color: blue;
+}
+a:hover {
+  color: purple;
+}
+  
+figcaption{
+	text-align:center;
+}
+
+footer {
+  background-color: white;
+  padding: 15px;
+}
+
+h1 {
+  color: navy;
+  margin-left: 20px;
+}
